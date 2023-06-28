@@ -17,6 +17,7 @@ export default defineConfig({
           'zh-SG': 'ChatGPT 搜索',
           'zh-TW': 'ChatGPT 搜索',
           'zh-HK': 'ChatGPT 搜索',
+          'ru-RU': 'Поиск ChatGPT',
         },
         version,
         description: {
@@ -25,6 +26,7 @@ export default defineConfig({
           'zh-SG': '侧栏显示 ChatGPT 回答（Google、Bing、百度、DuckDuckGo和DeepL）',
           'zh-TW': '側欄顯示 ChatGPT 回答（Google、Bing、百度、DuckDuckGo和DeepL）',
           'zh-HK': '側欄顯示 ChatGPT 回答（Google、Bing、百度、DuckDuckGo和DeepL）',
+          'ru-RU': 'Верхняя или боковая панель в Google, Bing, Baidu, DuckDuckGo и DeepL с ответами ChatGPT',
         },
         author: 'Zheng Bang-Bo(https://github.com/zhengbangbo)',
         match: [
